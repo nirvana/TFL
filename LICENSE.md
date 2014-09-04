@@ -7,7 +7,7 @@ Licensed under the following license:
 
 The Truly Free License (sm)
 ======================
-Version 1.0.0 
+Version 1.0.0
 
 Preamble
 ========
@@ -41,7 +41,7 @@ distributed under any of the following types of licenses:
 	B. Any license that requires source code to be distributed with derivatives
 
 	C. Any license that requires relicensing of derivative works under a license
-	   that would not comply with these terms.
+		that would not comply with these terms.
 
 2. The above copyright notice, this permission notice, including the disclaimer
 below shall be included in all copies or portions of the Software, including derivatives.
