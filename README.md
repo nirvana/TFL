@@ -10,28 +10,27 @@ is our opportunity to cooperate to make software better held ransom under the te
 by those who thought it was "the open source license".
 
 However, given that the FSF is more of an ideological movement than a software movement, it has produced
-a large contingent of people who do not actually understand the terms of these licenses.  Since they think 
-that all software should be "free as in fascism", they often take software licensed under liberal licenses 
-and re-license it under the GPL!
+a large contingent of people who do not actually understand the terms of these licenses.  Since they think
+that all software should be "free as in pwned by Stallman", they often take software licensed under
+liberal licenses and re-license it under the GPL.
 
-Worse, many of them think that this is allowed under the terms of more free licenses, and claim publically
+Worse, many of them think that this is allowed under the terms of more free licenses, and claim publicly
 that they're free to incorporate Apache 2.0 or MIT or BSD licensed code in their GPL projects!
 
 While there is little, short of taking people to court, that we can do to prevent these people from
-stealing other's work, and locking it away, never to give anything back, we can at least make it clear
-that this is what they are doing.
+stealing other's work, we can at least make it clear that this is what they are doing.
 
-And thus, we have the Truly Free License. 
+And thus, we have the Truly Free License.
 
 ### Where?
 
 The license is contained in the file LICENSE.md.  Please create issues if you have feedback,
 or pull requests if you have improvements.
 
-The plan is to revise the license and keep it at 0.x until the summer of 2013, where it will
-be blessed as 1.0. 
+### How?
 
-So, if anyone actually does read this, and has an opinion, now's the time to share!
+Just take the LICENSE.md file from this project, update the top with the particulars of your software,
+and included it in your project.  You're now free as in freedom!
 
 ### Who?
 

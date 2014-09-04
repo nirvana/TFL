@@ -7,7 +7,7 @@ Licensed under the following license:
 
 The Truly Free License (sm)
 ======================
-Version 0.1.4 (2014-09-04)
+Version 1.0.0 
 
 Preamble
 ========
