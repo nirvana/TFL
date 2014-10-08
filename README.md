@@ -11,7 +11,7 @@ Apache 2.0, MIT or BSD licenses and lock it down under the GPL in their derivati
 
 The TFL was created to keep code free. Free as in freedom.  Free as in you're free to ship commerical
 products using this code.  Free as in you're free to add your own ideas and not share them with the
-workd (if you think they are bad or simply don't want to.)
+world.
 
 And of course, as we've seen with the Open Source movement, freedom begets freedom.  Those who are free
 to use code tend to do so, and they tend to contribute the code back to the community. 
@@ -21,16 +21,28 @@ All this without the animosity nor the ideological witch hunts that the GPL has 
 The TFL is quite literally the anti-GPL.  It is a liberal license with the restriction that no code
 released under the TFL may be stolen and released under the GPL.  That's it.
 
-While there is little, short of taking people to court, that we can do to prevent these people from
-stealing other's work, and locking it away, never to give anything back, we can at least make it clear
-that this is what they are doing.
+However, given that the FSF is more of an ideological movement than a software movement, it has produced
+a large contingent of people who do not actually understand the terms of these licenses.  Since they think
+that all software should be "free as in pwned by Stallman", they often take software licensed under
+liberal licenses and re-license it under the GPL.
 
-And thus, we have the Truly Free License. 
+Worse, many of them think that this is allowed under the terms of more free licenses, and claim publicly
+that they're free to incorporate Apache 2.0 or MIT or BSD licensed code in their GPL projects!
+
+While there is little, short of taking people to court, that we can do to prevent these people from
+stealing other's work, we can at least make it clear that this is what they are doing.
+
+And thus, we have the Truly Free License.
 
 ### Where?
 
 The license is contained in the file LICENSE.md.  Please create issues if you have feedback,
 or pull requests if you have improvements.
+
+### How?
+
+Just take the LICENSE.md file from this project, update the top with the particulars of your software,
+and included it in your project.  You're now free as in freedom!
 
 ### Who?
 
