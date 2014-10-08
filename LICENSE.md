@@ -1,6 +1,6 @@
 The Truly Free License (sm)
 ======================
-Version 0.1 (provisional)
+Version 0.2 (provisional)
 
 Copyright © [date] by [who] 
 [website]

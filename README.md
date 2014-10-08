@@ -4,18 +4,22 @@ _The Truly Free License_
 
 ### Why?
 
-The past 20 years have seen a wonderful evolution of the open source community. Despite the early popularity
-of the GPL, open source has come into being and a number of free licenses have become widely used.   No longer
-is our opportunity to cooperate to make software better held ransom under the terms of the GPL, naively chosen
-by those who thought it was "the open source license".
+Quite simply, there is a common misconception among the gnu faitheful that they have a right to
+appropriate code from open source licenses and lock it down under the more restrictive GPL.  Specifically
+advocates of the GPL have proclaimed publically the right to steal code licensed under the
+Apache 2.0, MIT or BSD licenses and lock it down under the GPL in their derivative projects.
 
-However, given that the FSF is more of an ideological movement than a software movement, it has produced
-a large contingent of people who do not actually understand the terms of these licenses.  Since they think 
-that all software should be "free as in fascism", they often take software licensed under liberal licenses 
-and re-license it under the GPL!
+The TFL was created to keep code free. Free as in freedom.  Free as in you're free to ship commerical
+products using this code.  Free as in you're free to add your own ideas and not share them with the
+workd (if you think they are bad or simply don't want to.)
 
-Worse, many of them think that this is allowed under the terms of more free licenses, and claim publically
-that they're free to incorporate Apache 2.0 or MIT or BSD licensed code in their GPL projects!
+And of course, as we've seen with the Open Source movement, freedom begets freedom.  Those who are free
+to use code tend to do so, and they tend to contribute the code back to the community. 
+
+All this without the animosity nor the ideological witch hunts that the GPL has spawned.
+
+The TFL is quite literally the anti-GPL.  It is a liberal license with the restriction that no code
+released under the TFL may be stolen and released under the GPL.  That's it.
 
 While there is little, short of taking people to court, that we can do to prevent these people from
 stealing other's work, and locking it away, never to give anything back, we can at least make it clear
@@ -27,11 +31,6 @@ And thus, we have the Truly Free License.
 
 The license is contained in the file LICENSE.md.  Please create issues if you have feedback,
 or pull requests if you have improvements.
-
-The plan is to revise the license and keep it at 0.x until the summer of 2013, where it will
-be blessed as 1.0. 
-
-So, if anyone actually does read this, and has an opinion, now's the time to share!
 
 ### Who?
 
