@@ -4,9 +4,9 @@ _The Truly Free License_
 
 ### Why?
 
-Quite simply, there is a common misconception among the gnu faitheful that they have a right to
+Quite simply, there is a common misconception among the gnu faithful that they have a right to
 appropriate code from open source licenses and lock it down under the more restrictive GPL.  Specifically
-advocates of the GPL have proclaimed publically the right to steal code licensed under the
+advocates of the GPL have proclaimed publicly the right to steal code licensed under the
 Apache 2.0, MIT or BSD licenses and lock it down under the GPL in their derivative projects.
 
 The TFL was created to keep code free. Free as in freedom.  Free as in you're free to ship commerical
@@ -14,7 +14,7 @@ products using this code.  Free as in you're free to add your own ideas and not 
 world.
 
 And of course, as we've seen with the Open Source movement, freedom begets freedom.  Those who are free
-to use code tend to do so, and they tend to contribute the code back to the community. 
+to use code tend to do so, and they tend to contribute the code back to the community.
 
 All this without the animosity nor the ideological witch hunts that the GPL has spawned.
 

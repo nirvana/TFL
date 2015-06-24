@@ -8,7 +8,7 @@ Licensed under the following license:
 The Truly Free License (sm)
 ======================
 
-Version 1.0.0
+Version 1.1
 
 Preamble
 ========
@@ -28,13 +28,15 @@ License
 =======
 
 Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and/or associated documentation files (the "Software"),
-to deal in the Software including, without other limitation, the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
+a copy of this project, which includes software and/or the following:
+associated documentation files, project specific data, eratta, methods
+and configuration information (the "Project"), to deal in the Project
+including, without other limitation, the rights to use, copy, modify,
+enchance, filter, merge, publish, distribute, sublicense, and/or sell
+copies of the Project, and to permit persons to whom the Project is
 furnished to do so, subject to the following conditions:
 
-1. No part of the Software may be included in derivative works that are
+1. No part of the Project may be included in derivative works that are
 distributed under any of the following types of licenses:
 
 	A. Copyleft restricted licenses, including, but not limited to the GPL, GPL2, or GPL3.
@@ -44,16 +46,25 @@ distributed under any of the following types of licenses:
 	C. Any license that requires relicensing of derivative works under a license
 		that would not comply with these terms.
 
-2. The above copyright notice, this permission notice, including the disclaimer
-below shall be included in all copies or portions of the Software, including derivatives.
+2. This entire document, including the above copyright notice, this permission notice,
+the license for using the license and the disclaimer below shall be included in all copies
+or portions of the Project, including derivatives.  Source files merely need to refer to
+the license, and the full license file included in source distributions.
 
-3. Contributions to this project made by licensees including, but not limited to code changes,
-fixing or reporting issues or bugs, improvements, documentation and the like fall under this
-same license.
+3. Contributions to Projects licensed under the TFL made by licensees including, but not
+limited to code changes, fixing or reporting issues or bugs, improvements, documentation
+and the like are automatically licensed under this same license.  
 
-4. Code and Contributions licensed under the TFL may be used under the terms of the TFL at
-the time the code was created, or any later version of the TFL as found at
-http://github.com/nirvana/TFL or as otherwise designated by The Nirvana Organization.
+4. Project licensed under the TFL may be used under the terms of the TFL at
+the time the code was created, and any later version of the TFL as found at
+http://github.com/nirvana/TFL or as otherwise designated by The Nirvana Organization on
+its website.   Thus, no changes to the license in the future can remove your rights under it.
+
+5. Creators of software licensed under the TFL reserve the right to retain the projects
+name as a common-law trademark, and require significant derivatives that lack their blessing
+to change names to avoid confusion.
+
+6. Your use of the Project under this license, requires your acceptance these terms.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
@@ -65,7 +76,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ------------
 The Truly Free License
-Copyright © 2014 by The Nirvana Organization
+Copyright © 2015 by The Nirvana Organization
 http://nirvana.io
 All rights reserved.
 
